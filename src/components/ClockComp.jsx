@@ -22,7 +22,7 @@ const ClockComp = () => {
 
     return (  
         <div>
-            <h1 style={{fontSize:"15px"}}>({Month}/{Datee})</h1>
+            <span>({Month}/{Datee})</span>
         </div>
     );
 }
